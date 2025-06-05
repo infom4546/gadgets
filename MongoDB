@@ -1,0 +1,6 @@
+// POST Request (Postman में भेजें)
+{
+  "name": "iPhone 15",
+  "price": 79999,
+  "image": "https://example.com/iphone15.jpg"
+}
